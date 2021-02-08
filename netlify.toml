@@ -1,5 +1,5 @@
 [build]
-command = "hugo"
+command = "hugo server --bind 127.0.0.1 -p 4321 --themesDir themes -t story -D -F --navigateToChanged"
 publish = "public"
 [build.environment]
 HUGO_VERSION = "0.80.0"
