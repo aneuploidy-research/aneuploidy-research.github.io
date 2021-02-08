@@ -1,0 +1,39 @@
+theme: story
+baseurl: https://example.com/
+title: Hugo Story Theme
+paginate: 5
+buildFuture: yes
+menu:
+  main:
+    - name: Talks
+      title: Talks
+      url: /talks/
+    - name: Slides
+      title: Slides
+      url: /slides/
+    - name: Archives
+      title: Archives
+      url: /archives/
+  social:
+    - name: GitHub
+      title: fab fa-github-square
+      url: https://github.com/xaprb/story/
+params:
+  author: Rajiv McCoy
+  classes: []
+  twitter: xaprb
+outputs:
+  home:
+    - HTML
+    - JSON
+    - RSS
+  page: HTML
+  section:
+    - HTML
+    - RSS
+  taxonomy:
+    - HTML
+    - RSS
+  taxonomyTerm:
+    - HTML
+    - RSS

@@ -1,0 +1,5 @@
+---
+site: blogdown:::blogdown_site
+title: Origins of Aneuploidy Research Consortium
+image: "/content/img/default-header-img.jpg"
+---

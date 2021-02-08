@@ -1,0 +1,33 @@
+theme: story
+baseurl: https://example.com/
+title: Origins of Aneuploidy Research Consortium
+paginate: 5
+buildFuture: yes
+menu:
+  main:
+    - name: Members
+      title: Members
+      url: /
+    - name: Contact
+      title: Contact
+      url: /
+params:
+  author: Origins of Aneuploidy Research Consortium
+  classes: []
+outputs:
+  home:
+    - HTML
+    - JSON
+    - RSS
+  page: HTML
+  section:
+    - HTML
+    - RSS
+  taxonomy:
+    - HTML
+    - RSS
+  taxonomyTerm:
+    - HTML
+    - RSS
+
+
