@@ -1,5 +1,5 @@
 theme: story
-baseurl: https://aneuploidy-research.github.io/
+baseurl: http://aneuploidy-research.github.io/
 title: Origins of Aneuploidy Research Consortium
 paginate: 5
 buildFuture: yes
