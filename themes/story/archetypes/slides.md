@@ -1,6 +1,5 @@
 ---
 title: {{ .Name | humanize | title }}
-date: "{{ .Date }}"
 url: "/{{ .Dir }}"
 image: "/slides/{{ .Name }}/cover.jpg"
 description: ""

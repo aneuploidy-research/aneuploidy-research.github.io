@@ -7,10 +7,13 @@ menu:
   main:
     - name: Members
       title: Members
-      url: http://festive-bose-3baaf2.netlify.app/
-    #- name: Contact
-    #  title: Contact
-    #  url: 
+      url: /
+    - name: Meetings
+      title: Meetings
+      url: /meetings
+    - name: Publications
+      title: Publications
+      url: /publications
 params:
   author: Origins of Aneuploidy Research Consortium
   classes: []
