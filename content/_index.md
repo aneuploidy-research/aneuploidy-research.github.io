@@ -30,6 +30,10 @@ thumbnail: /img/karyotype.jpg
 
 **Terry Hassold** is Professor in the School of Molecular Biosciences and Center for Reproductive Biology at Washington State University. The primary aim of his laboratory is the use of cytogenetic and molecular techniques to study the origin and etiology of human chromosome abnormalities, with the aim being to uncover basic mechanisms responsible for the errors. His lab has recently initiated a series of studies to examine factors responsible for “setting” recombination levels in mammalian males and females.
 
+[![Mary Herbert](/img/mary.jpg)](https://research.ncl.ac.uk/celldivisionbiology/people/staffprofilemaryherbert.html)
+
+**Mary Herbert** is Professor of Reproductive Biology at Newcastle University, and Scientific Director at Newcastle Fertility Centre. She and her team are preventing the transmission of mitochondrial DNA disease using nuclear transplantation. This cutting edge mechanism, commonly referred to as three-person IVF, has the potential to prevent transmission of devastating disease from mother to child. In addition to mitochondrial disease, Mary’s research focuses on the underlying causes of infertility, miscarriage and birth defects in older women.
+
 [![Eva Hoffmann](/img/eva.jpg)](https://icmm.ku.dk/english/research-groups/hoffmann-group/)
 
 **Eva Hoffmann** is a Scientific Director of the clinical consortium ReproUnion and Deputy Director of the Center for Chromosome Stability at the Medical School at the University of Copenhagen. Her research focusses on how genomic instability in human gametes and embryos affect pregnancy loss and congenital disorders. This includes the development of single-cell sequencing and computational methods to probe genomic changes in eggs and tissues.
