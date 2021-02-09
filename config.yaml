@@ -1,5 +1,5 @@
 theme: story
-baseurl: http://aneuploidy-research.github.io/
+baseurl: /
 title: Origins of Aneuploidy Research Consortium
 paginate: 5
 buildFuture: yes
@@ -7,7 +7,7 @@ menu:
   main:
     - name: Members
       title: Members
-      url: /
+      url: https://festive-bose-3baaf2.netlify.app/
     #- name: Contact
     #  title: Contact
     #  url: 
