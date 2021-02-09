@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on Origins of Aneuploidy Research Consortium</title>
-    <link>https://aneuploidy-research.github.io/talks/</link>
+    <link>http://aneuploidy-research.github.io/talks/</link>
     <description>Recent content in Talks on Origins of Aneuploidy Research Consortium</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aneuploidy-research.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://aneuploidy-research.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Future Talk</title>
-      <link>https://aneuploidy-research.github.io/talks/a-future-talk/</link>
+      <link>http://aneuploidy-research.github.io/talks/a-future-talk/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://aneuploidy-research.github.io/talks/a-future-talk/</guid>
+      <guid>http://aneuploidy-research.github.io/talks/a-future-talk/</guid>
       <description>&lt;p&gt;Story&amp;rsquo;s talks pages can highlight upcoming appearances, promoting your talks
 before you present. This is a dummy page illustrating this capability.&lt;/p&gt;
 &lt;p&gt;You&amp;rsquo;ll have to add &lt;code&gt;buildFuture: true&lt;/code&gt; to your site&amp;rsquo;s &lt;code&gt;config.yaml&lt;/code&gt; to enable
