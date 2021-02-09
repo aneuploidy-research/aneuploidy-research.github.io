@@ -1,5 +1,5 @@
 ---
-subtitle: Promoting interdisciplinary communication, education, and collaborative research into the causal mechanisms, epidemiology, and clinical implications of constitutional chromosome abnormalities.
+subtitle: Promoting interdisciplinary communication, education, and collaborative research into the causal mechanisms, diagnosis, epidemiology, and clinical implications of constitutional chromosome abnormalities.
 
 title: Origins of Aneuploidy Research Consortium
 image: "/img/karyotype.jpg"
