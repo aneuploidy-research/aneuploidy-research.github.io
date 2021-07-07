@@ -6,6 +6,8 @@ url: /publications
 author: [""]
 ---
 
+Origins of Aneuploidy Research Consortium (2021). Special Topic Issue: Origins of Aneuploidy. Prenatal diagnosis, 41(5), 517-646. https://obgyn.onlinelibrary.wiley.com/toc/10970223/2021/41/5
+
 Masset, H., Tšuiko, O., & Vermeesch, J. R. (2021). Genome-wide abnormalities in embryos: Origins and clinical consequences. Prenatal diagnosis, 10.1002/pd.5895. Advance online publication. https://doi.org/10.1002/pd.5895
 
 Hassold, T. J., & Hunt, P. A. (2021). Missed connections: Recombination and human aneuploidy. Prenatal diagnosis, 10.1002/pd.5910. Advance online publication. https://doi.org/10.1002/pd.5910
