@@ -10,6 +10,10 @@ thumbnail: /img/karyotype.jpg
 
 **Peter Benn** is Professor Emeritus in the Department of Genetics and Genome Sciences at the University of Connecticut, USA. His career has focussed on the clinical provision of screening and diagnosis for genetic disorders.  His more recent research has mostly focussed on the optimal provision of non-invasive prenatal testing through the analysis of cell free DNA in maternal plasma and the significance of confined placental mosaicism.
 
+[![Antonio Capalbo](/img/antonio.jpg)](https://it.linkedin.com/in/antonio-capalbo-5a169a35)
+
+**Antonio Capalbo** is Scientific and Laboratory Director at Igenomix Italy (Rome, Italy) and Senior Deputy of the ESHRE Special Interest Group in Reproductive Genetics. His scientific interest focuses on preimplantation genetic testing and the development of novel molecular techniques and embryo biopsy protocols to improve pregnancy and take-home baby rates in ART; basic research is focused on the mechanisms and implications of aneuploidies in oocytes and preimplantation human embryos. He has developed substantial expertise in Preimplantation Genetic Testing, IVF and clinical embryology, Preconception Carrier Screening, Human Genetics, with 15 years of experience in management of IVF and reproductive genetics laboratories.
+
 [![Monica Colaiacovo](/img/monica.jpg)](https://genepath.med.harvard.edu/colaiacovo/)
 
 **Monica Colaiacovo** is Professor of Genetics at the Blavatnik Institute of Harvard Medical School. Her lab investigates the mechanisms underlying germline maintenance and accurate chromosome inheritance during meiosis. Addressing this is of vital importance in order to understand the sources of errors that result in infertility, miscarriages, birth defects such as Down syndrome, and tumorigenesis in humans. These studies provide key insights into the molecular basis for the regulation of germline maintenance and meiotic chromosome segregation.
@@ -87,6 +91,10 @@ thumbnail: /img/karyotype.jpg
 [![Lena Wartosch](/img/lena.jpg)](https://www.mpibpc.mpg.de/16768031/Lena-Wartosch-short-bio)
 
 **Lena Wartosch** is a staff scientist in Melina Schuh’s Department of Meiosis at the Max-Planck-Institute for Biophysical Chemistry in Göttingen, Germany. The laboratory studies the intricate process of mammalian egg cell development and maturation into a fertilisable egg and, in particular, works to understand the underlying causes of errors during this process often leading to infertility or pregnancy loss. Focusing on the role of the oocyte cytoskeleton, the laboratory investigates how erroneous interactions between the cytoskeleton and chromosomes can cause aneuploidy.
+
+[![Jinchuan Xing](/img/jin.jpg)](http://xinglab.genetics.rutgers.edu/)
+
+**Jinchuan Xing** is an Associate Professor in the Genetics Department at Rutgers University. His research program focuses on the inter-individual genomic diversity and the impact of genomic variation. Using genomic and computational approaches, his lab identifies genetic factors (DNA variants, genes, and pathways) that contribute to female gamete aneuploidy.
 
 [![Yuval Yaron](/img/yuval.jpg)](https://www.tasmc.org.il/sites/en/Personnel/pages/yaron-yuval.aspx)
 
