@@ -63,6 +63,11 @@ thumbnail: /img/karyotype.jpg
 
 **Patricia Hunt** is a Meyer Distinguished Professor in the School of Molecular Biosciences at Washington State University. Research in the Hunt laboratory focuses on the genetic control of reproduction in mammals, with a major emphasis on understanding the causes of human chromosome abnormalities, human infertility, and environmental effects on reproduction. A major research focus is on understanding the control of the normal meiotic process in the mammalian female, the mechanisms(s) by which errors occur, and the way in which age and environmental contaminants influence both male and female meiosis.
 
+[![Chaim Jalas](/img/chaim.jpg)](https://scholar.google.com/citations?user=2m3yRsYAAAAJ&hl=en)
+
+**Chaim Jalas** is COO and Director of Technology Development at the Foundation for Embryonic Competence (FEC). Chaim has been an active researcher and investigator in the area of Genetics and Fertility since the start of his career more than 15 years ago. With over 40 publications, he has played a significant role in the development of multidisciplinary research, technology and clinical research in the area of Genetics and Fertility. He has been named Principal Investigator or Co-investigator for numerous studies conducted at prestigious institutions such as the Broad institute of MIT and Harvard in Boston and Hadassah Medical Center in Jerusalem. He served on the board of Columbia University’s genomics IRB. At the FEC, he is actively involved in developing and validating genetic testing platforms for PGT-A, PGT-M and PGT-SR and ongoing research studies.
+
+
 [![Brynn Levy](/img/brynn.jpg)](https://www.pathology.columbia.edu/profile/brynn-levy-msc)
 
 **Brynn Levy** is a Professor of Pathology and Cell Biology at the Columbia University Medical Center. He is also the Medical Director of the Clinical Cytogenetics Laboratory of the New York Presbyterian Hospital and a Co-Director of the Division of Personalized Genomics in the Department of Pathology & Cell Biology. His research areas of interest include early prenatal screening using fetal cells and cell-free fetal DNA from maternal circulation, PGD and the etiology of recurrent miscarriage.

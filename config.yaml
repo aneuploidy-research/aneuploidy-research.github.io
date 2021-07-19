@@ -15,7 +15,7 @@ menu:
       title: Publications
       url: /publications
 params:
-  author: Origins of Aneuploidy Research Consortium
+  author: Origins of Aneuploidy Research Consortium | 240 US Highway 206, Unit 20, Flanders, NJ 07836-9998
   classes: []
 outputs:
   home:
