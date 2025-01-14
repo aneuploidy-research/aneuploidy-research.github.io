@@ -1,10 +1,18 @@
 ---
 title: "Meetings"
-date: 3021-02-08
+date: 2025-01-14
 image: "/img/karyotype.jpg"
 url: /meetings
-author: [""]
+author: ["Rajiv McCoy"]
 ---
+
+April 2025: Leuven, Belgium
+
+November 2023: Florence, Italy
+
+November 2022: Paris, France
+
+September 2021: Online
 
 October 2020: Online
 

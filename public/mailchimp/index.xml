@@ -8,5 +8,34 @@
 		<rights>Copyright (c) 2025</rights>
 		<updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
 		
+		<item>
+			<title>Meetings</title>
+			<link>/meetings/</link>
+			<pubDate>Tue, 14 Jan 2025 00:00:00 UTC</pubDate>
+			<author>Origins of Aneuploidy Research Consortium |  P.O. Box 570, Flanders, NJ 07836-9998</author>
+			<guid>/meetings/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/img/karyotype.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>%!s(&lt;!-- raw HTML omitted --&gt;)&lt;!-- raw HTML omitted --&gt;April 2025: Leuven, Belgium
+November 2023: Florence, Italy
+November 2022: Paris, France
+September 2021: Online
+October 2020: Online
+October 2019: Paris, France
+September 2018: Toronto, Canada
+September 2017: Barcelona, Spain</description>
+		</item>
+		
+		<item>
+			<title>A Future Talk</title>
+			<link>/talks/a-future-talk/</link>
+			<pubDate>Wed, 01 Jan 2025 00:00:00 UTC</pubDate>
+			<author>Origins of Aneuploidy Research Consortium |  P.O. Box 570, Flanders, NJ 07836-9998</author>
+			<guid>/talks/a-future-talk/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/talks/tim-van-der-kuip-769737-unsplash.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>Story&amp;rsquo;s talks pages can highlight upcoming appearances, promoting your talks before you present.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Story’s talks pages can highlight upcoming appearances, promoting your talks
+before you present. This is a dummy page illustrating this capability.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+		</item>
+		
 	</channel>
 </rss>
