@@ -3,8 +3,8 @@
 		<section class="w-100 mw8">
 		{{ $pages := where .Paginator.Pages ".Params.skip" "ne" "true" }}
 		{{ range where (where $pages ".Date.Unix" "<" now.Unix) "Section" "ne" "slides" }}
-			{{ partial "li.html" . }}
-		{{ end }}
+<!--			{{ partial "li.html" . }}
+-->		{{ end }}
 		</section>
 	</div>
 {{ end }}
