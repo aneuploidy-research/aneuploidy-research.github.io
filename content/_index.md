@@ -10,7 +10,7 @@ thumbnail: /img/karyotype_logo.jpg
 
 [![Christian Ottolini](/img/christian.jpg)](https://www.evewell.com/team/dr-christian-ottolini/)
 
-**Christian Ottolini**, Chair, was one of the first IVF babies and feels an interest in understanding the origins of life. An embryologist by training, Christian is now the Head of Embryology for Juno Genetics EU. He holds honorary academic positions at University College London and the University of Kent where he continues his research into aneuploidy in human oocytes and the link between aneuploidy and preimplantation embryo development.
+**Christian Ottolini**, Chair, was one of the first IVF babies and has a deep interest in understanding the origins of life. An embryologist by training, Christian is now the Head of Embryology for Juno Genetics EU. He holds honorary academic positions at University College London and the University of Kent where he continues his research into aneuploidy in human oocytes and the link between aneuploidy and preimplantation embryo development.
 
 [![Karen Schindler](/img/karen.jpg)](http://genfaculty.rutgers.edu/schindler)
 
