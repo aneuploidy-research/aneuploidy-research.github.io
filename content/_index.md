@@ -18,7 +18,7 @@ thumbnail: /img/karyotype_logo.jpg
 
 [![Diego Marin](/img/diego.jpg)](https://www.linkedin.com/in/diegomarin007/)
 
-**Diego Marin**, Treasurer, is Deputy Director and Head of Global Business Development & Scientific Affairs at Genomic Prediction. He holds a PhD in Genetics and Cancer Biology and also serves as an Adjunct Professor in the Department of Genetics at Rutgers University. He is working to develop and improve polygenic predictors for embryo health.
+**Diego Marin**, Treasurer, is Head of Global Business Development and Scientific Affairs at Genomic Prediction and Adjunct Professor in the Department of Human Genetics at Rutgers University. His research bridges clinical application and cutting-edge genomics to investigate the origins of aneuploidy, polygenic risk scoring, and gene editing in human embryos.
 
 [![Jennifer Gruhn](/img/jenny.jpg)](https://researchprofiles.ku.dk/en/persons/jennifer-rose-gruhn)
 
