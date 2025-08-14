@@ -37,7 +37,7 @@ thumbnail: /img/karyotype_logo.jpg
 
 [![Christian Liebst Frisk Toft](/img/christianlft.jpg)](https://www.kuleuven.be/wieiswie/en/person/00102176)
 
-**Christian Liebst Frisk Toft** is Molecular Biologist and Researcher at Center for Preimplantation Genetic Testing, Aalborg University Hospital, Denmark. Christian is working to understand and improve the outcomes of various preimplantation genetic testing approaches that are used in the clinic.
+**Christian Liebst Frisk Toft** is Molecular Biologist and Researcher at Center for Preimplantation Genetic Testing, Aalborg University Hospital, Denmark. Christian is part of the embryo diagnostic team and oversees research at the center, working at both the diagnostic lab and the fertility clinic. The research is mainly focused on new methods and improvements to clinical practice that can improve clinical outcomes or patient care.
 
 
 ## Outgoing Board of Directors

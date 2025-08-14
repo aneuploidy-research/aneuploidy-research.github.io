@@ -12,17 +12,23 @@ April 2025: Leuven, Belgium
 
 November 2023: Florence, Italy
 
+![Leuven](/img/florence.jpg "Florence")
+
 November 2022: Paris, France
+
+![Paris](/img/paris_2022.jpg "Paris")
 
 September 2021: Online
 
+![Zoom](/img/zoom_2021.jpg "Zoom")
+
 October 2020: Online
 
-![Zoom](/img/zoom.jpg "Zoom")
+![Zoom](/img/zoom_2020.jpg "Zoom")
 
 October 2019: Paris, France
 
-![Paris](/img/paris.jpg "Paris")
+![Paris](/img/paris_2019.jpg "Paris")
 
 September 2018: Toronto, Canada
 
