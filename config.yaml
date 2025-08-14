@@ -32,6 +32,7 @@ menu:
 params:
   author: Origins of Aneuploidy Research Consortium |  P.O. Box 570, Flanders, NJ 07836-9998
   classes: []
+  enableMobileMenu: true
 outputs:
   home:
     - HTML
