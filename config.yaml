@@ -14,6 +14,9 @@ menu:
     - name: Publications
       title: Publications
       url: /publications
+    - name: News
+      title: News
+      url: /news
 params:
   author: Origins of Aneuploidy Research Consortium |  P.O. Box 570, Flanders, NJ 07836-9998
   classes: []
@@ -32,4 +35,9 @@ outputs:
   taxonomyTerm:
     - HTML
     - RSS
+    
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
