@@ -417,3 +417,26 @@ img[src~="3dbook"] {
 .hljs-link {
   text-decoration: underline;
 }
+
+/* ===== Mobile Hamburger Menu ===== */
+@media screen and (max-width: 768px) {
+    .menu {
+        display: none;
+        flex-direction: column;
+        background: #000;
+        width: 100%;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        z-index: 1000;
+    }
+    .menu.active {
+        display: flex;
+    }
+    .hamburger {
+        display: block;
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
+}
