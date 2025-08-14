@@ -1,4 +1,4 @@
-/* ===== Mobile Hamburger Menu ===== */
+/* Hamburger button */
 .hamburger {
     display: none;
     position: absolute;
@@ -10,7 +10,7 @@
     cursor: pointer;
 }
 
-/* Optional: simple hamburger icon lines */
+/* Hamburger lines */
 .hamburger .hamburger-box {
     display: inline-block;
     width: 24px;
@@ -27,19 +27,11 @@
     left: 0;
     transition: all 0.3s;
 }
-.hamburger .hamburger-inner::before {
-    content: "";
-    top: -6px;
-}
-.hamburger .hamburger-inner::after {
-    content: "";
-    top: 6px;
-}
+.hamburger .hamburger-inner::before { content: ""; top: -6px; }
+.hamburger .hamburger-inner::after  { content: ""; top: 6px; }
 
-.menu {
-    display: flex;
-    align-items: center;
-}
+/* Menu default (desktop) */
+.menu { display: flex; align-items: center; }
 
 /* Mobile styles */
 @media screen and (max-width: 768px) {
@@ -51,14 +43,13 @@
         background: #000;
         width: 100%;
         position: absolute;
-        top: 50px; /* adjust to match header height */
+        top: 50px;
         left: 0;
         z-index: 1000;
     }
 
     .menu.active { display: flex; }
 
-    /* Make menu links full width on mobile */
     .menu a {
         display: block;
         padding: 10px 15px;

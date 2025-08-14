@@ -1,3 +1,16 @@
+// Hamburger toggle
+document.addEventListener("DOMContentLoaded", function () {
+    const hamburger = document.querySelector(".hamburger");
+    const menu = document.querySelector(".menu");
+
+    if (hamburger && menu) {
+        hamburger.addEventListener("click", function () {
+            menu.classList.toggle("active");
+        });
+    }
+});
+
+
 // Render KaTeX math typesetting, but only if the <body> has the class
 // feature-math
 $( function() {
