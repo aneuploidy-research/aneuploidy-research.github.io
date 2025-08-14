@@ -1,9 +1,7 @@
 ---
-subtitle: 
-
-title: 
-image: "/img/karyotype_logo.jpg"
-thumbnail: /img/karyotype_logo.jpg
+title: Members
+image: "/img/karyotype.jpg"
+thumbnail: /img/karyotype.jpg
 ---
 
 ## Board of Directors
