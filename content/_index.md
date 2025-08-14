@@ -25,10 +25,6 @@ thumbnail: /img/karyotype.jpg
 
 ## 2025 Conference Organizing Committee
 
-[![Joris Vermeesch](/img/joris.jpg)](https://www.kuleuven.be/wieiswie/en/person/00003838)
-
-**Joris Vermeesch** is head of the Laboratory of Cytogenetics and Genome Research at the Center for Human Genetics, KULeuven, Leuven, Belgium. The Vermeesch laboratory develops and uses genomic technologies to map the causes and mechanisms underlying rare developmental disorders with a focus on structural variation and mosaicism detection. The laboratory translates and implement technologies to improve postnatal diagnosis of rare diseases as well as  preimplantation and prenatal genetic testing  to avoid transmission of disease alleles. 
-
 [![Olga Tsuiko](/img/olga.jpg)](https://www.kuleuven.be/wieiswie/en/person/00102176)
 
 **Olga Tšuiko** is a Postdoctoral Fellow in the Laboratory of Cytogenetics and Genome Research at the Center for Human Genetics, KULeuven, Leuven, Belgium. Olga is an expert in clinical cytogenetics with a particular interest in understanding the origins of human aneuploidies, as well as other forms of complex de novo mutation through application of genomic technologies.
@@ -36,13 +32,6 @@ thumbnail: /img/karyotype.jpg
 [![Christian Liebst Frisk Toft](/img/christianlft.jpg)](https://www.kuleuven.be/wieiswie/en/person/00102176)
 
 **Christian Liebst Frisk Toft** is Molecular Biologist and Researcher at Center for Preimplantation Genetic Testing, Aalborg University Hospital, Denmark. Christian is part of the embryo diagnostic team and oversees research at the center, working at both the diagnostic lab and the fertility clinic. The research is mainly focused on new methods and improvements to clinical practice that can improve clinical outcomes or patient care.
-
-
-## Outgoing Board of Directors
-
-[![Alan Handyside](/img/alan.jpg)](https://www.preimplantationgenetics.com)
-
-**Alan Handyside**, Outgoing Executive Director, is an Honorary Professor of the School of Biosciences, University of Kent, Canterbury, UK. He is an internationally-recognised pioneer and expert in human embryology and preimplantation genetics with an extensive research portfolio, track record for innovation in single cell diagnostics (including two patents) and 20 years experience in management in the private IVF sector in the UK. His research interests are in human embryology and preimplantation genetics, including a particular interest in the association between aneuploidy and developmental arrest.
 
 [![Eva Hoffmann](/img/eva.jpg)](https://icmm.ku.dk/english/research-groups/hoffmann-group/)
 
@@ -55,7 +44,6 @@ thumbnail: /img/karyotype.jpg
 [![Nathan Treff, PhD, HCLD](/img/nathan.jpg)](https://www.lifeview.com/)
 
 **Nathan Treff**, Outgoing Treasurer, is Co-Founder, CSO, and Clinical Laboratory Director of the Genomic Prediction Clinical Laboratory. He is an associate professor at Rutgers Robert Wood Johnson Medical School and adjunct professor in the Rutgers Department of Genetics. His research interests are expanding and improving genetic testing in the preimplantation embryo.
-
 
 ## Members
 
@@ -74,6 +62,10 @@ thumbnail: /img/karyotype.jpg
 [![Eleanor Feingold](/img/eleanor.jpg)](https://publichealth.pitt.edu/home/directory/eleanor-feingold)
 
 **Eleanor Feingold** is Interim Chair and Professor of Human Genetics, Professor of Biostatistics, and Executive Associate Dean at the School of Public Health at the University of Pittsburgh. In her research, she develops statistical methods for questions in genetics, particularly involving genomic data and new technologies. This includes digging into the gory details and understanding how data from new technologies need to be cleaned before they can be used. She also enjoys working with large collaborative groups to dissect the genetics of particular traits. 
+
+[![Alan Handyside](/img/alan.jpg)](https://www.preimplantationgenetics.com)
+
+**Alan Handyside**, Outgoing Executive Director, is an Honorary Professor of the School of Biosciences, University of Kent, Canterbury, UK. He is an internationally-recognised pioneer and expert in human embryology and preimplantation genetics with an extensive research portfolio, track record for innovation in single cell diagnostics (including two patents) and 20 years experience in management in the private IVF sector in the UK. His research interests are in human embryology and preimplantation genetics, including a particular interest in the association between aneuploidy and developmental arrest.
 
 [![Terry Hassold](/img/terry.jpg)](https://smb.wsu.edu/faculty-trainees-and-staff/faculty/profile/terry-hassold)
 
@@ -94,6 +86,10 @@ thumbnail: /img/karyotype.jpg
 [![Melina Schuh](/img/melina.jpg)](https://www.mpibpc.mpg.de/mschuh)
 
 **Melina Schuh** is a Director at the Max-Planck-Institute for Biophysical Chemistry in Göttingen, Germany, where she leads the Department of Meiosis. Her laboratory investigates how fertilisable eggs develop in mammals, and how errors arise in this process, which are a major cause of miscarriages and infertility. A key aim of her laboratory is to investigate how the oocyte’s cytoskeleton drives meiosis, and how defects at the interface between chromosomes and cytoskeletal structures lead to aneuploid eggs and pregnancy loss.
+
+[![Joris Vermeesch](/img/joris.jpg)](https://www.kuleuven.be/wieiswie/en/person/00003838)
+
+**Joris Vermeesch** is head of the Laboratory of Cytogenetics and Genome Research at the Center for Human Genetics, KULeuven, Leuven, Belgium. The Vermeesch laboratory develops and uses genomic technologies to map the causes and mechanisms underlying rare developmental disorders with a focus on structural variation and mosaicism detection. The laboratory translates and implement technologies to improve postnatal diagnosis of rare diseases as well as  preimplantation and prenatal genetic testing  to avoid transmission of disease alleles. 
 
 [![Lena Wartosch](/img/lena.jpg)](https://www.mpibpc.mpg.de/16768031/Lena-Wartosch-short-bio)
 
