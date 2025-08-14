@@ -1,0 +1,67 @@
+/* ===== Mobile Hamburger Menu ===== */
+.hamburger {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 1001;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+/* Optional: simple hamburger icon lines */
+.hamburger .hamburger-box {
+    display: inline-block;
+    width: 24px;
+    height: 18px;
+    position: relative;
+}
+.hamburger .hamburger-inner,
+.hamburger .hamburger-inner::before,
+.hamburger .hamburger-inner::after {
+    width: 24px;
+    height: 2px;
+    background-color: white;
+    position: absolute;
+    left: 0;
+    transition: all 0.3s;
+}
+.hamburger .hamburger-inner::before {
+    content: "";
+    top: -6px;
+}
+.hamburger .hamburger-inner::after {
+    content: "";
+    top: 6px;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+/* Mobile styles */
+@media screen and (max-width: 768px) {
+    .hamburger { display: block; }
+
+    .menu {
+        display: none;
+        flex-direction: column;
+        background: #000;
+        width: 100%;
+        position: absolute;
+        top: 50px; /* adjust to match header height */
+        left: 0;
+        z-index: 1000;
+    }
+
+    .menu.active { display: flex; }
+
+    /* Make menu links full width on mobile */
+    .menu a {
+        display: block;
+        padding: 10px 15px;
+        text-align: center;
+    }
+}

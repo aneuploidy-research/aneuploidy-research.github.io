@@ -50,7 +50,8 @@
 		{{ with .Site.Params.head }}{{ range . }}
 		{{ . | safeHTML }}{{ end }}{{ end }}
 		<script src="{{ "js/story.js" | absURL }}"></script>
-
+    
+    <link rel="stylesheet" href="{{ "css/custom.css" | absURL }}">
 	</head>
 	<body class="ma0 bg-white {{ with .Section }}section-{{ . }}{{ end }} page-kind-{{ .Kind }} is-page-{{ .IsPage }} {{ with .Site.Params.classes }}{{ range . }} {{ . }}{{ end }}{{ end }}{{ with .Params.classes }}{{ range . }} {{ . }}{{ end }}{{ end }}">
 		{{ block "header" . }}
@@ -70,10 +71,10 @@
                 <img src="{{ "img/blacksquare.jpg" }}" class="w2 h2 br-100" alt="{{ .Site.Title }}" />
             </a>
         
-            <!-- Hamburger toggle button (small screens) -->
-            <button class="hamburger fr" type="button" aria-label="Menu" style="display:none;">
+            <!-- Hamburger button (mobile) -->
+            <button class="hamburger" type="button" aria-label="Menu">
                 <span class="hamburger-box">
-                    <span class="hamburger-inner bg-white"></span>
+                    <span class="hamburger-inner"></span>
                 </span>
             </button>
         
@@ -86,40 +87,6 @@
                     <a class="link f5 ml2 dim near-white" href="{{ .URL }}"><i class="{{ .Title }}"></i></a>
                 {{- end }}
             </div>
-        
-            <!-- Mobile Menu Styles -->
-            <style>
-                /* Hamburger hidden by default on desktop */
-                .hamburger { display: none; }
-        
-                @media screen and (max-width: 768px) {
-                    .menu {
-                        display: none;
-                        flex-direction: column;
-                        background: #000;
-                        width: 100%;
-                        position: absolute;
-                        top: 60px;
-                        left: 0;
-                        z-index: 1000;
-                    }
-                    .menu.active { display: flex; }
-                    .hamburger { display: block; background: none; border: none; cursor: pointer; }
-                }
-            </style>
-        
-            <!-- Mobile Menu JS -->
-            <script>
-                document.addEventListener("DOMContentLoaded", function () {
-                    const hamburger = document.querySelector(".hamburger");
-                    const menu = document.querySelector(".menu");
-                    if (hamburger && menu) {
-                        hamburger.addEventListener("click", function () {
-                            menu.classList.toggle("active");
-                        });
-                    }
-                });
-            </script>
         </nav>
 				<div id="hdr" class="tc-l {{ cond $hdr "pv4-ns pv5-l" "" }} pv2 ph3 ph4-ns">
 					<h1 class="{{ cond $hdr "near-white mt1-ns" "" }} f2 fw3 mb0 mt0 lh-title">{{ cond (eq .Site.Params.titlecase true) (.Title | title | markdownify) (.Title | markdownify) }}</h1>
