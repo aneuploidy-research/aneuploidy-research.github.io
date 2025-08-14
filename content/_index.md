@@ -33,7 +33,7 @@ thumbnail: /img/karyotype_logo.jpg
 
 [![Olga Tsuiko](/img/olga.jpg)](https://www.kuleuven.be/wieiswie/en/person/00102176)
 
-**Olga Tšuiko** is a postdoctoral fellow in the Laboratory of Cytogenetics and Genome Research at the Center for Human Genetics, KULeuven, Leuven, Belgium. Olga is an expert in clinical cytogenetics with a particular interest in understanding the origins of human aneuploidies, as well as other forms of complex de novo mutation through application of genomic technologies.
+**Olga Tšuiko** is a Postdoctoral Fellow in the Laboratory of Cytogenetics and Genome Research at the Center for Human Genetics, KULeuven, Leuven, Belgium. Olga is an expert in clinical cytogenetics with a particular interest in understanding the origins of human aneuploidies, as well as other forms of complex de novo mutation through application of genomic technologies.
 
 [![Christian Liebst Frisk Toft](/img/christianlft.jpg)](https://www.kuleuven.be/wieiswie/en/person/00102176)
 
