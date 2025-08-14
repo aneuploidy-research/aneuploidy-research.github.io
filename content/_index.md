@@ -22,8 +22,7 @@ thumbnail: /img/karyotype.jpg
 
 **Jenny Gruhn**, Secretary, is Assistant Professor in the Department of Cellular and Molecular Medicine at the University of Copenhagen. Dr. Gruhn received her PhD from Washington State University. She is now working at the center of one of the largest collaborative studies of human oocytes to study the effects of maternal age on chromosome segregation errors and aneuploidy directly in the adult female germline.
 
-
-## 2025 Conference Organizing Committee
+## Conference Organizing Committee
 
 [![Olga Tsuiko](/img/olga.jpg)](https://www.kuleuven.be/wieiswie/en/person/00102176)
 
