@@ -8,9 +8,11 @@ author: ["Rajiv McCoy"]
 
 **2025**
 
-de Quadros, E., Xu, J., Treff, N., Marin, D., Freedman, A., Milevski, C., Miller, K., & Bian, M. (2025). Blastocyst segmental aneuploidy breakpoints are highly correlated with human genome fragile sites. Human reproduction (Oxford, England), deaf151. Advance online publication. https://doi.org/10.1093/humrep/deaf151
-
 Arnadottir, G. A., Jonsson, H., Hartwig, T. S., Gruhn, J. R., Møller, P. L., Gylfason, A., Westergaard, D., Chan, A. C., Oddsson, A., Stefansdottir, L., Roux, L. L., Steinthorsdottir, V., Swerford Moore, K. H., Olafsson, S., Olason, P. I., Eggertsson, H. P., Halldórsson, G. H., Walters, G. B., Stefansson, H., Gudjonsson, S. A., … Stefansson, K. (2025). Sequence diversity lost in early pregnancy. Nature, 642(8068), 672–681. https://doi.org/10.1038/s41586-025-09031-w
+
+Zhao, Y., Fernández-Montoro, A., Peeters, G., Jatsenko, T., De Coster, T., Angel-Velez, D., Lefevre, T., Voet, T., Tšuiko, O., Kurg, A., Smits, K., Van Soom, A., & Vermeesch, J. R. (2025). Origin and development of uniparental and polyploid blastomeres. iScience, 28(5), 112337. https://doi.org/10.1016/j.isci.2025.112337
+
+de Quadros, E., Xu, J., Treff, N., Marin, D., Freedman, A., Milevski, C., Miller, K., & Bian, M. (2025). Blastocyst segmental aneuploidy breakpoints are highly correlated with human genome fragile sites. Human reproduction (Oxford, England), deaf151. Advance online publication. https://doi.org/10.1093/humrep/deaf151
 
 Yang, Q., Carioscia, S. A., Isada, M., & McCoy, R. C. (2025). Approximate Bayesian computation supports a high incidence of chromosomal mosaicism in blastocyst-stage human embryos. Genetics, iyaf149. Advance online publication. https://doi.org/10.1093/genetics/iyaf149
 
@@ -76,7 +78,15 @@ Viotti, M., McCoy, R. C., Griffin, D. K., Spinella, F., Greco, E., Madjunkov, M.
 
 Quenby, S., Gallos, I. D., Dhillon-Smith, R. K., Podesek, M., Stephenson, M. D., Fisher, J., Brosens, J. J., Brewin, J., Ramhorst, R., Lucas, E. S., McCoy, R. C., Anderson, R., Daher, S., Regan, L., Al-Memar, M., Bourne, T., MacIntyre, D. A., Rai, R., Christiansen, O. B., Sugiura-Ogasawara, M., … Coomarasamy, A. (2021). Miscarriage matters: the epidemiological, physical, psychological, and economic costs of early pregnancy loss. Lancet (London, England), 397(10285), 1658–1667. https://doi.org/10.1016/S0140-6736(21)00682-6
 
+Tšuiko, O., Vanneste, M., Melotte, C., Ding, J., Debrock, S., Masset, H., Peters, M., Salumets, A., De Leener, A., Pirard, C., Kluyskens, C., Hostens, K., van de Vijver, A., Peeraer, K., Denayer, E., Vermeesch, J. R., & Dimitriadou, E. (2021). Haplotyping-based preimplantation genetic testing reveals parent-of-origin specific mechanisms of aneuploidy formation. NPJ genomic medicine, 6(1), 81. https://doi.org/10.1038/s41525-021-00246-0
+
 **2020**
+
+Special Topic Issue: Preimplantation genetic testing. (2020). *Reproduction (Cambridge, England)*, 160(5).
+
+  - Handyside, A. H. (2020). PREIMPLANTATION GENETIC TESTING: 30 years of preimplantation genetic testing. Reproduction (Cambridge, England), 160(5), E1-E3. https://doi.org/10.1530/REP-20-0412
+  - Treff, N. R., Marin, D., Lello, L., Hsu, S., & Tellier, L. C. A. M. (2020). PREIMPLANTATION GENETIC TESTING: Preimplantation genetic testing for polygenic disease risk. Reproduction (Cambridge, England), 160(5), A13–A17. https://doi.org/10.1530/REP-20-0071
+  - Tšuiko, O., Fernandez Gallardo, E., Voet, T., & Vermeesch, J. R. (2020). PREIMPLANTATION GENETIC TESTING: Single-cell technologies at the forefront of PGT and embryo research. Reproduction (Cambridge, England), 160(5), A19–A31. https://doi.org/10.1530/REP-20-0102
 
 Girardi, L., Serdarogullari, M., Patassini, C., Poli, M., Fabiani, M., Caroselli, S., Coban, O., Findikli, N., Boynukalin, F. K., Bahceci, M., Chopra, R., Canipari, R., Cimadomo, D., Rienzi, L., Ubaldi, F., Hoffmann, E., Rubio, C., Simon, C., & Capalbo, A. (2020). Incidence, Origin, and Predictive Model for the Detection and Clinical Management of Segmental Aneuploidies in Human Embryos. American journal of human genetics, 106(4), 525–534. https://doi.org/10.1016/j.ajhg.2020.03.005
 
