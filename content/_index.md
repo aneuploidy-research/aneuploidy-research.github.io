@@ -30,7 +30,7 @@ thumbnail: /img/karyotype.jpg
 
 [![Christian Liebst Frisk Toft](/img/christianlft.jpg)](https://www.kuleuven.be/wieiswie/en/person/00102176)
 
-**Christian Liebst Frisk Toft** is Molecular Biologist and Researcher at Center for Preimplantation Genetic Testing, Aalborg University Hospital, Denmark. Christian is part of the embryo diagnostic team and oversees research at the center, working at both the diagnostic lab and the fertility clinic. The research is mainly focused on new methods and improvements to clinical practice that can improve clinical outcomes or patient care.
+**Christian Liebst Frisk Toft** is a Molecular Biologist and Researcher at Center for Preimplantation Genetic Testing, Aalborg University Hospital, Denmark. Christian is part of the embryo diagnostic team and oversees research at the center, working at both the diagnostic lab and the fertility clinic. The research is mainly focused on new methods and improvements to clinical practice that can improve clinical outcomes or patient care.
 
 [![Eva Hoffmann](/img/eva.jpg)](https://icmm.ku.dk/english/research-groups/hoffmann-group/)
 
@@ -38,7 +38,7 @@ thumbnail: /img/karyotype.jpg
 
 [![Rajiv McCoy](/img/rajiv.jpg)](https://mccoy-lab.org)
 
-**Rajiv McCoy**, Outgoing Co-Chair, is Associate Professor in the Department of Biology at Johns Hopkins University whose research is focused on human genetics and evolution. His lab seeks insight into the genomic basis of variation in human fertility through the development and application of computational and statistical methods. To this end, his work combines diverse datasets and conceptual frameworks from complex trait genetics and evolutionary genomics to gain quantitative perspectives on human reproduction. Participation by Dr. McCoy does not constitute or imply endorsement by the Johns Hopkins University or the Johns Hopkins Hospital and Health System.
+**Rajiv McCoy**, Outgoing Co-Chair, is an Associate Professor in the Department of Biology at Johns Hopkins University whose research is focused on human genetics and evolution. His lab seeks insight into the genomic basis of variation in human fertility through the development and application of computational and statistical methods. To this end, his work combines diverse datasets and conceptual frameworks from complex trait genetics and evolutionary genomics to gain quantitative perspectives on human reproduction. Participation by Dr. McCoy does not constitute or imply endorsement by the Johns Hopkins University or the Johns Hopkins Hospital and Health System.
 
 [![Nathan Treff, PhD, HCLD](/img/nathan.jpg)](https://www.lifeview.com/)
 
