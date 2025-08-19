@@ -84,7 +84,7 @@ thumbnail: /img/karyotype.jpg
 
 [![Mina Popovic](/img/mina.jpg)](https://www.linkedin.com/in/mina-popovic)
 
-**Mina Popovic** is a a geneticist and clinical embryologist and is currently the Scientific Director of the Eugin Group in Barcelona, Spain. Throughout her career she gained extensive experience in embryo genetics and PGT, as well as modelling early human development and human stem cell biology. Mina is currently the coordinator of ESHRE’s Special Interest Group (SIG) Stem Cells and has been involved in the SIG Stem Cells Steering Committee since 2018. 
+**Mina Popovic** is a geneticist and clinical embryologist and is currently the Scientific Director of the Eugin Group in Barcelona, Spain. Throughout her career she gained extensive experience in embryo genetics and PGT, as well as modelling early human development and human stem cell biology. Mina is currently the coordinator of ESHRE’s Special Interest Group (SIG) Stem Cells and has been involved in the SIG Stem Cells Steering Committee since 2018. 
 
 [![Melina Schuh](/img/melina.jpg)](https://www.mpibpc.mpg.de/mschuh)
 
