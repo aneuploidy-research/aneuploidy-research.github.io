@@ -50,6 +50,10 @@ thumbnail: /img/karyotype.jpg
 
 **Peter Benn** is Professor Emeritus in the Department of Genetics and Genome Sciences at the University of Connecticut, USA. His career has focussed on the clinical provision of screening and diagnosis for genetic disorders.  His more recent research has mostly focussed on the optimal provision of non-invasive prenatal testing through the analysis of cell free DNA in maternal plasma and the significance of confined placental mosaicism.
 
+[![Arjun Biddanda](/img/arjun.jpg)](https://aabiddanda.github.io/)
+
+**Arjun Biddanda** is a Postdoctoral Fellow in the McCoy lab at Johns Hopkins University. His research interests span theoretical and applied population genetics, particularly to understand human disease, evolution, and fertility. Arjun received his Ph.D. in Human Genetics from the University of Chicago and was previously a postdoctoral researcher at Oxford. Arjun is supported by a postdoctoral fellowship from the Lalor Foundation for his work developing new statistical methods to understand diverse types of aneuploidies in early development.
+
 [![Antonio Capalbo](/img/antonio.jpg)](https://it.linkedin.com/in/antonio-capalbo-5a169a35)
 
 **Antonio Capalbo** is Scientific and Laboratory Director at Igenomix Italy (Rome, Italy) and Senior Deputy of the ESHRE Special Interest Group in Reproductive Genetics. His scientific interest focuses on preimplantation genetic testing and the development of novel molecular techniques and embryo biopsy protocols to improve pregnancy and take-home baby rates in ART; basic research is focused on the mechanisms and implications of aneuploidies in oocytes and preimplantation human embryos. He has developed substantial expertise in Preimplantation Genetic Testing, IVF and clinical embryology, Preconception Carrier Screening, Human Genetics, with 15 years of experience in management of IVF and reproductive genetics laboratories.
